@@ -6,5 +6,4 @@ Allow installation from unknown sources
 Activate the module in Xposed Framework
 Restart WhatsApp and enjoy!
 ⭐ If you like the project, don't forget to star it!
-Bu
 
